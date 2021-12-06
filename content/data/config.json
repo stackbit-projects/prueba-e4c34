@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/nutricosmetictop_.png"
     },
     "footer": {
         "has_nav": true,
