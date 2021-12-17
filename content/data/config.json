@@ -45,6 +45,13 @@
                 "label": "Privacy and Terms",
                 "url": "/terms",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_social": true,
