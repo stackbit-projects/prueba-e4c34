@@ -38,7 +38,7 @@
         "nav_links": [
             {
                 "label": "Contact Us",
-                "url": "mail",
+                "url": "mailto",
                 "style": "link"
             },
             {
