@@ -39,7 +39,7 @@
             {
                 "label": "Contact Us",
                 "url": "mailto:hola@gmail.com",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Privacy and Terms",
