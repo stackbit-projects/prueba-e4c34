@@ -33,7 +33,6 @@
         ],
         "logo": "/images/nutricosmetictop_-6f3152eb.png"
     },
-    
     "footer": {
         "has_nav": true,
         "nav_links": [
@@ -51,7 +50,7 @@
                 "label": "Llamame",
                 "url": "tel:2136089702",
                 "style": "primary",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ],
