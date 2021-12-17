@@ -49,7 +49,7 @@
             {
                 "label": "Llamame",
                 "url": "tel:2136089702",
-                "style": "link",
+                "style": "primary",
                 "new_window": false,
                 "no_follow": false
             }
